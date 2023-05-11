@@ -15,7 +15,7 @@ O projeto está organizado da seguinte forma:
 
 - [index.html](index.html): arquivo HTML principal que contém a estrutura do site.
 - [css/](css/): diretório que contém o arquivo CSS utilizado para estilização.
-- [imagens/](imagens/): diretório que armazena as imagens utilizadas no site.
+- [imgs/](imgs/): diretório que armazena as imagens utilizadas no site.
 
 ## Execução do Projeto
 
@@ -33,4 +33,4 @@ Nome: Matheus Silva dos Santos
 
 GitHub: [mtss-dev](https://github.com/mtss-dev)
 
-Agradeço por conferir meu projeto! Se tiver alguma dúvida ou sugestão, por favor, entre em contato.
+Agradeço por conferir meu projeto! Se tiver alguma dúvida ou sugestão, por favor, entre em contato através do endereço de e-mail matheus.silva@icomp.ufam.edu.br
