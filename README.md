@@ -2,6 +2,11 @@
 
 Este repositório contém o código-fonte do meu projeto de site, desenvolvido como parte do curso de Programação Web na Udemy. O objetivo deste projeto é criar um site para uma modelo fictícia chamada Anna Bella, aplicando os conhecimentos adquiridos até o momento no curso.
 
+<p align="center">
+  <img src="https://github.com/mtss-dev/AnnaBella-Website/assets/91330677/9199753e-69d4-448a-9592-5b8d98e54879" alt="home" width="650" />
+</p>
+
+
 ## Sobre o Projeto
 
 O site foi construído utilizando HTML e CSS, as linguagens fundamentais para a construção de páginas web. Foi dada ênfase na estruturação correta do HTML, utilizando elementos semânticos para melhorar a acessibilidade e a indexação pelos motores de busca.
